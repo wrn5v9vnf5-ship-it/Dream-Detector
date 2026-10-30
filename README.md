@@ -1,2 +1,1 @@
-# Dream-Detector
-A simple app for people to explore their dreams.
+DreamLog (Dream detector) is an application built for people who are curious about their dreams. This app can help users record and organize their dreams. This helps people to remember their dreams and explore what may happen if the dream continues. Users can write dream descriptions to let the AI assistant in this app to create pictures and melodies of this dream. By this way, users can review their dreams at any time and make their dreams more vivid.
